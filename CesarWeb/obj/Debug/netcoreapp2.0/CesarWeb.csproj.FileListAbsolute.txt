@@ -1,0 +1,10 @@
+C:\Users\Fernanda\Documents\GitHub\CesarWeb\bin\Debug\netcoreapp2.0\CesarWeb.deps.json
+C:\Users\Fernanda\Documents\GitHub\CesarWeb\bin\Debug\netcoreapp2.0\CesarWeb.runtimeconfig.json
+C:\Users\Fernanda\Documents\GitHub\CesarWeb\bin\Debug\netcoreapp2.0\CesarWeb.runtimeconfig.dev.json
+C:\Users\Fernanda\Documents\GitHub\CesarWeb\bin\Debug\netcoreapp2.0\CesarWeb.dll
+C:\Users\Fernanda\Documents\GitHub\CesarWeb\bin\Debug\netcoreapp2.0\CesarWeb.pdb
+C:\Users\Fernanda\Documents\GitHub\CesarWeb\obj\Debug\netcoreapp2.0\CesarWeb.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Documents\GitHub\CesarWeb\obj\Debug\netcoreapp2.0\CesarWeb.AssemblyInfoInputs.cache
+C:\Users\Fernanda\Documents\GitHub\CesarWeb\obj\Debug\netcoreapp2.0\CesarWeb.AssemblyInfo.cs
+C:\Users\Fernanda\Documents\GitHub\CesarWeb\obj\Debug\netcoreapp2.0\CesarWeb.dll
+C:\Users\Fernanda\Documents\GitHub\CesarWeb\obj\Debug\netcoreapp2.0\CesarWeb.pdb
